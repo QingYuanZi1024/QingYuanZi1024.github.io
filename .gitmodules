@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/QingYuanZi1024/QingYuanZi1024.github.io.git
+	branch = main
